@@ -21,4 +21,4 @@ Based on the KodeKloud curriculum by Mumshad Mannambeth.
 - [Kubernetes Docs](https://kubernetes.io/docs)
 - [kubectl Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 - [KodeKloud](https://kodekloud.com)
-- [Certified Kubernetes Administrator (CKA) with Practice Tests - Udemy Coures](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+- [Certified Kubernetes Administrator (CKA) with Practice Tests - Udemy Course](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
